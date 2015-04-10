@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/acceptance/nodesets
+END
+default.yml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/acceptance/nodesets/default.yml
+END
+centos66-x64.yml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/acceptance/nodesets/centos66-x64.yml
+END
+ubuntu-server-1204-x64.yml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/acceptance/nodesets/ubuntu-server-1204-x64.yml
+END
+two-centos-66-x64.yml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/acceptance/nodesets/two-centos-66-x64.yml
+END
+nodepool.yml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/acceptance/nodesets/nodepool.yml
+END
+two-ubuntu-server-1204-x64.yml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/acceptance/nodesets/two-ubuntu-server-1204-x64.yml
+END

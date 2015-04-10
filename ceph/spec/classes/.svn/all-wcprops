@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/classes
+END
+ceph_osds_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/classes/ceph_osds_spec.rb
+END
+ceph_profile_mon_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/classes/ceph_profile_mon_spec.rb
+END
+ceph_profile_base_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/classes/ceph_profile_base_spec.rb
+END
+ceph_mons_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/classes/ceph_mons_spec.rb
+END
+ceph_profile_client_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/classes/ceph_profile_client_spec.rb
+END
+ceph_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/classes/ceph_spec.rb
+END
+ceph_init_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/classes/ceph_init_spec.rb
+END
+ceph_mds_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/classes/ceph_mds_spec.rb
+END
+ceph_conf_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/classes/ceph_conf_spec.rb
+END
+ceph_profile_osd_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/classes/ceph_profile_osd_spec.rb
+END
+ceph_repo_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/classes/ceph_repo_spec.rb
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec
+END
+spec_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/spec_helper.rb
+END
+spec_helper_system.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/spec_helper_system.rb
+END
+spec_helper_acceptance.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/spec_helper_acceptance.rb
+END

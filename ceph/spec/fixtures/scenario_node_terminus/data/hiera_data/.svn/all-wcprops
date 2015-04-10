@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/fixtures/scenario_node_terminus/data/hiera_data
+END
+common.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/fixtures/scenario_node_terminus/data/hiera_data/common.yaml
+END

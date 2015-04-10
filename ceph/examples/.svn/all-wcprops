@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/examples
+END
+common.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/examples/common.yaml
+END
+hiera.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/examples/hiera.yaml
+END

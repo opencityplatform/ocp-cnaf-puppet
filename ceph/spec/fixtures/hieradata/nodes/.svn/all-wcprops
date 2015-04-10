@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/fixtures/hieradata/nodes
+END
+first.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/fixtures/hieradata/nodes/first.yaml
+END

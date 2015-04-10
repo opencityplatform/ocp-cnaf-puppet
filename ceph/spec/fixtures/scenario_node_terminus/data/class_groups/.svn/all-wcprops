@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/fixtures/scenario_node_terminus/data/class_groups
+END
+base.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/fixtures/scenario_node_terminus/data/class_groups/base.yaml
+END

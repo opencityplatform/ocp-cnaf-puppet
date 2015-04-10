@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/acceptance
+END
+ceph_usecases_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/acceptance/ceph_usecases_spec.rb
+END

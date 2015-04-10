@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/defines
+END
+ceph_osd_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/defines/ceph_osd_spec.rb
+END
+ceph_key_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/defines/ceph_key_spec.rb
+END
+ceph_mon_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/defines/ceph_mon_spec.rb
+END
+ceph_pool_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/defines/ceph_pool_spec.rb
+END
+ceph_rgw_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/defines/ceph_rgw_spec.rb
+END
+ceph_rgw_apache_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/defines/ceph_rgw_apache_spec.rb
+END

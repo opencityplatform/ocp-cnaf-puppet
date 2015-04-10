@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/fixtures/data/data/hiera_data/osfamily
+END
+RedHat.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/fixtures/data/data/hiera_data/osfamily/RedHat.yaml
+END
+Debian.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/fixtures/data/data/hiera_data/osfamily/Debian.yaml
+END

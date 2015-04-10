@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/fixtures/scenario_node_terminus/data/hiera_data/scenario
+END
+allinone.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/fixtures/scenario_node_terminus/data/hiera_data/scenario/allinone.yaml
+END
+2_role.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/fixtures/scenario_node_terminus/data/hiera_data/scenario/2_role.yaml
+END

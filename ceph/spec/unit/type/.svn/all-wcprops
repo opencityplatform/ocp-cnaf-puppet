@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/unit/type
+END
+ceph_config_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/unit/type/ceph_config_spec.rb
+END

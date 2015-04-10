@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/fixtures/scenario_node_terminus/data/hiera_data/ensure
+END
+purged.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/fixtures/scenario_node_terminus/data/hiera_data/ensure/purged.yaml
+END
+absent.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/spec/fixtures/scenario_node_terminus/data/hiera_data/ensure/absent.yaml
+END

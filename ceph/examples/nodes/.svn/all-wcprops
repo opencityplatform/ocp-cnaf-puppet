@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/examples/nodes
+END
+first.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/examples/nodes/first.yaml
+END
+second.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/examples/nodes/second.yaml
+END

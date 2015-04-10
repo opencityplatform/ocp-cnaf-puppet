@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/puppet/!svn/ver/1062/trunk/environments/cloud/modules/ceph/manifests
+END
+rgw.pp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/manifests/rgw.pp
+END
+init.pp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/manifests/init.pp
+END
+mds.pp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/manifests/mds.pp
+END
+params.pp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/manifests/params.pp
+END
+conf.pp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/manifests/conf.pp
+END
+osd.pp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/manifests/osd.pp
+END
+repo.pp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/manifests/repo.pp
+END
+key.pp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/manifests/key.pp
+END
+osds.pp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/manifests/osds.pp
+END
+mon.pp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/puppet/!svn/ver/1062/trunk/environments/cloud/modules/ceph/manifests/mon.pp
+END
+pool.pp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/manifests/pool.pp
+END
+keys.pp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/manifests/keys.pp
+END
+mons.pp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/puppet/!svn/ver/1044/trunk/environments/cloud/modules/ceph/manifests/mons.pp
+END
