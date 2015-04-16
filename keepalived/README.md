@@ -2,8 +2,9 @@
 
 ## Starting Module
 
-We develope this module starting the:
-[arioch/keepalived module in puppetlabs] https://forge.puppetlabs.com/arioch/keepalived
+We developed this module starting the:
+
+[arioch/keepalived module in puppetlabs](https://forge.puppetlabs.com/arioch/keepalived)
 
 ## Document HAProxy Keepalived:
 
