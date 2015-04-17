@@ -13,7 +13,7 @@
 7. [Usage with foreman](#usage-with-foreman)
     * [Donwload the module from git](#donwload-the-module-from-git)
     * [Import the module in foreman](#import-the-module-in-foreman)
-8. [Configure the module with puppet]:(#configure-the-module-with-puppet)
+8. [Configure the module with puppet](#configure-the-module-with-puppet)
 9. [Setup - The basics of getting started with haproxy](#setup)
     * [Beginning with haproxy](#beginning-with-haproxy)
 10. [Usage - Configuration options and additional functionality](#usage)
@@ -43,11 +43,16 @@ The haproxy module provides the ability to install, configure, and manage HAProx
 ##Module Description
 
 HAProxy is a daemon for load-balancing and proxying TCP and HTTP-based services.
+
 This module configures proxy servers and manages the configuration of backend member servers.
+
 This module was developed for install and configure an haproxy server. 
 You can use haproxy for multiple service like mysql percona cluster, openstack controllers services in high availability for example keystone, nova, glance, ...
+
 We develop this module used with foreman only for mysql percona cluster.
+
 But using exported resources in puppet or puppet definitions you can insert more listen, frontend or backend sections in haproxy conf file.
+
 Follow the documentation of the module in puppetlabs reported also below.
 
 ##Starting Module
