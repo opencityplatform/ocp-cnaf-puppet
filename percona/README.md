@@ -14,7 +14,7 @@ Puppet module for managing Percona XtraDB.
 7. [Usage with foreman](#usage-with-foreman)
     * [Donwload the module from git](#donwload-the-module-from-git)
     * [Import the module in foreman](#import-the-module-in-foreman)
-8. [Configure the module with puppet]:(#configure-the-module-with-puppet)
+8. [Configure the module with puppet](#configure-the-module-with-puppet)
 
 
 ##Overview
